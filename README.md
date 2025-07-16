@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Aanvetha Pediredla
 
-<!--
-**Aanvetha/Aanvetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a postgraduate student in the field of  Data Science, I'm passionate about leveraging data to solve real-world problems and generate actionable insights."
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+● Languages: Python, Java, R
+
+● Tools: Pandas, Matplotlib, Scikit-learn, PyTorch, Excel (Dashboards, Charts, Data Analysis),       Google Sheets
+
+● Domains: Healthcare Analytics, Sentiment Tracking, Time Series Forecasting
+
+● Other : Advanced Excel
+
+🚀 Current Projects
+
+🧠 Mental Health Sentiment Tracker – combining Excel and Python to visualize moods and burnout risks.
+
+🏥 Sepsis Early Prediction (PhysioNet Challenge 2019) – building a Time Series Transformer and LSTM models for ICU patient data.
+
+
+📫 Let's Connect
+
+Linkedin https://www.linkedin.com/in/aanvetha-pediredla-a4048132b 
+
+Email : pediredlaaanvetha@gmail.com
+
+
